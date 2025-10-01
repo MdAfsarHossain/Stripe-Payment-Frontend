@@ -1,0 +1,1823 @@
+{
+  "level": 1,
+  "isCompleted": false,
+  "isLocked": false,
+  "wordQuestions": {
+    "isCompleted": false,
+    "questions": [
+      {
+        "exerciseNumber": 1,
+        "question": "What does 'grateful' mean?",
+        "questionType": "word",
+        "options": ["angry", "thankful", "confused"],
+        "correctAns": "thankful",
+        "explanation": "Correct answer: 'thankful'"
+      },
+      {
+        "exerciseNumber": 2,
+        "question": "What does 'curious' mean?",
+        "questionType": "word",
+        "options": ["bored", "wanting to learn", "sleepy"],
+        "correctAns": "wanting to learn",
+        "explanation": "Correct answer: 'wanting to learn'"
+      },
+      {
+        "exerciseNumber": 3,
+        "question": "What does 'honest' mean?",
+        "questionType": "word",
+        "options": ["telling lies", "telling truth", "staying quiet"],
+        "correctAns": "telling truth",
+        "explanation": "Correct answer: 'telling truth'"
+      },
+      {
+        "exerciseNumber": 4,
+        "question": "What does 'confident' mean?",
+        "questionType": "word",
+        "options": ["sure of yourself", "nervous", "angry"],
+        "correctAns": "sure of yourself",
+        "explanation": "Correct answer: 'sure of yourself'"
+      },
+      {
+        "exerciseNumber": 5,
+        "question": "What does 'patient' mean?",
+        "questionType": "word",
+        "options": ["in a hurry", "willing to wait", "always moving"],
+        "correctAns": "willing to wait",
+        "explanation": "Correct answer: 'willing to wait'"
+      }
+    ]
+  },
+  "numberQuestions": {
+    "isCompleted": false,
+    "questions": [
+      {
+        "exerciseNumber": 1,
+        "question": "Select the correct number",
+        "questionType": "number",
+        "audio": "Forty-five",
+        "options": [
+          {
+            "label": "Forty-three",
+            "number": 43
+          },
+          {
+            "label": "Forty-four",
+            "number": 44
+          },
+          {
+            "label": "Forty-five",
+            "number": 45
+          },
+          {
+            "label": "Forty-six",
+            "number": 46
+          }
+        ],
+        "correctAns": 2,
+        "explanation": "Select the number forty-five."
+      },
+      {
+        "exerciseNumber": 2,
+        "question": "Select the correct number",
+        "questionType": "number",
+        "audio": "Sixty",
+        "options": [
+          {
+            "label": "Fifty-eight",
+            "number": 58
+          },
+          {
+            "label": "Fifty-nine",
+            "number": 59
+          },
+          {
+            "label": "Sixty",
+            "number": 60
+          },
+          {
+            "label": "Sixty-one",
+            "number": 61
+          }
+        ],
+        "correctAns": 2,
+        "explanation": "Select the number sixty."
+      },
+      {
+        "exerciseNumber": 3,
+        "question": "Select the correct number",
+        "questionType": "number",
+        "audio": "Fifty-two",
+        "options": [
+          {
+            "label": "Fifty",
+            "number": 50
+          },
+          {
+            "label": "Fifty-one",
+            "number": 51
+          },
+          {
+            "label": "Fifty-two",
+            "number": 52
+          },
+          {
+            "label": "Fifty-three",
+            "number": 53
+          }
+        ],
+        "correctAns": 2,
+        "explanation": "Select the number fifty-two."
+      },
+      {
+        "exerciseNumber": 4,
+        "question": "Select the correct number",
+        "questionType": "number",
+        "audio": "Seventy-seven",
+        "options": [
+          {
+            "label": "Seventy-five",
+            "number": 75
+          },
+          {
+            "label": "Seventy-six",
+            "number": 76
+          },
+          {
+            "label": "Seventy-seven",
+            "number": 77
+          },
+          {
+            "label": "Seventy-eight",
+            "number": 78
+          }
+        ],
+        "correctAns": 2,
+        "explanation": "Select the number seventy-seven."
+      },
+      {
+        "exerciseNumber": 5,
+        "question": "Select the correct number",
+        "questionType": "number",
+        "audio": "Ninety",
+        "options": [
+          {
+            "label": "Eighty-eight",
+            "number": 88
+          },
+          {
+            "label": "Eighty-nine",
+            "number": 89
+          },
+          {
+            "label": "Ninety",
+            "number": 90
+          },
+          {
+            "label": "Ninety-one",
+            "number": 91
+          }
+        ],
+        "correctAns": 2,
+        "explanation": "Select the number ninety."
+      }
+    ]
+  },
+  "imageQuestions": {
+    "isCompleted": false,
+    "questions": [
+      {
+        "exerciseNumber": 1,
+        "question": "Which shows 'studying'?",
+        "questionType": "image",
+        "options": [
+          {
+            "image": "/images/studying.png",
+            "option": "Studying"
+          },
+          {
+            "image": "/images/gaming.png",
+            "option": "Gaming"
+          },
+          {
+            "image": "/images/texting.png",
+            "option": "Texting"
+          },
+          {
+            "image": "/images/watching.png",
+            "option": "Watching"
+          }
+        ],
+        "correctAns": 0,
+        "explanation": "The correct answer is 'Studying'"
+      },
+      {
+        "exerciseNumber": 2,
+        "question": "Which is a 'laboratory'?",
+        "questionType": "image",
+        "options": [
+          {
+            "image": "/images/classroom.png",
+            "option": "Classroom"
+          },
+          {
+            "image": "/images/laboratory.png",
+            "option": "Laboratory"
+          },
+          {
+            "image": "/images/cafeteria.png",
+            "option": "Cafeteria"
+          },
+          {
+            "image": "/images/gymnasium.png",
+            "option": "Gymnasium"
+          }
+        ],
+        "correctAns": 1,
+        "explanation": "The correct answer is 'Laboratory'"
+      },
+      {
+        "exerciseNumber": 3,
+        "question": "Which shows 'teamwork'?",
+        "questionType": "image",
+        "options": [
+          {
+            "image": "/images/arguing.png",
+            "option": "Arguing"
+          },
+          {
+            "image": "/images/competing.png",
+            "option": "Competing"
+          },
+          {
+            "image": "/images/teamwork.png",
+            "option": "Teamwork"
+          },
+          {
+            "image": "/images/isolating.png",
+            "option": "Isolating"
+          }
+        ],
+        "correctAns": 2,
+        "explanation": "The correct answer is 'Teamwork'"
+      },
+      {
+        "exerciseNumber": 4,
+        "question": "Which is a 'microscope'?",
+        "questionType": "image",
+        "options": [
+          {
+            "image": "/images/telescope.png",
+            "option": "Telescope"
+          },
+          {
+            "image": "/images/calculator.png",
+            "option": "Calculator"
+          },
+          {
+            "image": "/images/compass.png",
+            "option": "Compass"
+          },
+          {
+            "image": "/images/microscope.png",
+            "option": "Microscope"
+          }
+        ],
+        "correctAns": 3,
+        "explanation": "The correct answer is 'Microscope'"
+      },
+      {
+        "exerciseNumber": 5,
+        "question": "Which shows 'presenting'?",
+        "questionType": "image",
+        "options": [
+          {
+            "image": "/images/presenting.png",
+            "option": "Presenting"
+          },
+          {
+            "image": "/images/listening.png",
+            "option": "Listening"
+          },
+          {
+            "image": "/images/writing.png",
+            "option": "Writing"
+          },
+          {
+            "image": "/images/reading.png",
+            "option": "Reading"
+          }
+        ],
+        "correctAns": 0,
+        "explanation": "The correct answer is 'Presenting'"
+      }
+    ]
+  },
+  "matchingQuestions": {
+    "isCompleted": false,
+    "questions": [
+      {
+        "exerciseNumber": 1,
+        "question": "Match subjects to tools",
+        "questionType": "matching",
+        "questions": [
+          {
+            "audio": "Math",
+            "correctAns": "Calculator"
+          },
+          {
+            "audio": "Science",
+            "correctAns": "Microscope"
+          },
+          {
+            "audio": "Art",
+            "correctAns": "Paintbrush"
+          },
+          {
+            "audio": "Music",
+            "correctAns": "Piano"
+          }
+        ],
+        "options": ["Piano", "Calculator", "Paintbrush", "Microscope"],
+        "explanation": "Match each subject to its tool."
+      },
+      {
+        "exerciseNumber": 2,
+        "question": "Match emotions to expressions",
+        "questionType": "matching",
+        "questions": [
+          {
+            "audio": "Excited",
+            "correctAns": "Jump"
+          },
+          {
+            "audio": "Confused",
+            "correctAns": "Scratch head"
+          },
+          {
+            "audio": "Proud",
+            "correctAns": "Stand tall"
+          },
+          {
+            "audio": "Nervous",
+            "correctAns": "Bite nails"
+          }
+        ],
+        "options": ["Stand tall", "Jump", "Bite nails", "Scratch head"],
+        "explanation": "Match each emotion to its expression."
+      },
+      {
+        "exerciseNumber": 3,
+        "question": "Match hobbies to places",
+        "questionType": "matching",
+        "questions": [
+          {
+            "audio": "Swimming",
+            "correctAns": "Pool"
+          },
+          {
+            "audio": "Reading",
+            "correctAns": "Library"
+          },
+          {
+            "audio": "Shopping",
+            "correctAns": "Mall"
+          },
+          {
+            "audio": "Hiking",
+            "correctAns": "Trail"
+          }
+        ],
+        "options": ["Mall", "Pool", "Trail", "Library"],
+        "explanation": "Match each hobby to its place."
+      },
+      {
+        "exerciseNumber": 4,
+        "question": "Match problems to solutions",
+        "questionType": "matching",
+        "questions": [
+          {
+            "audio": "Tired",
+            "correctAns": "Rest"
+          },
+          {
+            "audio": "Hungry",
+            "correctAns": "Eat"
+          },
+          {
+            "audio": "Lost",
+            "correctAns": "Ask directions"
+          },
+          {
+            "audio": "Cold",
+            "correctAns": "Wear jacket"
+          }
+        ],
+        "options": ["Ask directions", "Rest", "Wear jacket", "Eat"],
+        "explanation": "Match each problem to its solution."
+      },
+      {
+        "exerciseNumber": 5,
+        "question": "Match skills to careers",
+        "questionType": "matching",
+        "questions": [
+          {
+            "audio": "Drawing",
+            "correctAns": "Artist"
+          },
+          {
+            "audio": "Cooking",
+            "correctAns": "Chef"
+          },
+          {
+            "audio": "Teaching",
+            "correctAns": "Teacher"
+          },
+          {
+            "audio": "Healing",
+            "correctAns": "Doctor"
+          }
+        ],
+        "options": ["Chef", "Artist", "Doctor", "Teacher"],
+        "explanation": "Match each skill to its career."
+      }
+    ]
+  },
+  "pronunciationQuestions": {
+    "isCompleted": false,
+    "questions": [
+      {
+        "exerciseNumber": 1,
+        "question": "Say 'Responsibility'",
+        "questionType": "pronunciation",
+        "audio": "Responsibility",
+        "image": "/images/responsibility.png",
+        "instruction": "Tap the mic and say 'Responsibility'",
+        "correctAns": "Responsibility",
+        "explanation": "Say 'Responsibility' clearly."
+      },
+      {
+        "exerciseNumber": 2,
+        "question": "Say 'Independent'",
+        "questionType": "pronunciation",
+        "audio": "Independent",
+        "image": "/images/independent.png",
+        "instruction": "Tap the mic and say 'Independent'",
+        "correctAns": "Independent",
+        "explanation": "Say 'Independent' clearly."
+      },
+      {
+        "exerciseNumber": 3,
+        "question": "Say 'Achievement'",
+        "questionType": "pronunciation",
+        "audio": "Achievement",
+        "image": "/images/achievement.png",
+        "instruction": "Tap the mic and say 'Achievement'",
+        "correctAns": "Achievement",
+        "explanation": "Say 'Achievement' clearly."
+      },
+      {
+        "exerciseNumber": 4,
+        "question": "Say 'Creativity'",
+        "questionType": "pronunciation",
+        "audio": "Creativity",
+        "image": "/images/creativity.png",
+        "instruction": "Tap the mic and say 'Creativity'",
+        "correctAns": "Creativity",
+        "explanation": "Say 'Creativity' clearly."
+      },
+      {
+        "exerciseNumber": 5,
+        "question": "Say 'Friendship'",
+        "questionType": "pronunciation",
+        "audio": "Friendship",
+        "image": "/images/friendship.png",
+        "instruction": "Tap the mic and say 'Friendship'",
+        "correctAns": "Friendship",
+        "explanation": "Say 'Friendship' clearly."
+      }
+    ]
+  },
+  "sentenceQuestions": {
+    "isCompleted": false,
+    "questions": [
+      {
+        "exerciseNumber": 1,
+        "question": "I enjoy learning new things",
+        "questionType": "sentence",
+        "audio": "I enjoy learning new things",
+        "options": ["I", "enjoy", "learning", "new", "things", "You", "hate", "forgetting", "old", "stuff"],
+        "correctAns": ["I", "enjoy", "learning", "new", "things"],
+        "explanation": "Correct answer: 'I enjoy learning new things'"
+      },
+      {
+        "exerciseNumber": 2,
+        "question": "My friends are very supportive",
+        "questionType": "sentence",
+        "audio": "My friends are very supportive",
+        "options": ["My", "friends", "are", "very", "supportive", "Your", "enemies", "were", "quite", "mean"],
+        "correctAns": ["My", "friends", "are", "very", "supportive"],
+        "explanation": "Correct answer: 'My friends are very supportive'"
+      },
+      {
+        "exerciseNumber": 3,
+        "question": "This project requires teamwork",
+        "questionType": "sentence",
+        "audio": "This project requires teamwork",
+        "options": ["This", "project", "requires", "teamwork", "That", "assignment", "needs", "individual work"],
+        "correctAns": ["This", "project", "requires", "teamwork"],
+        "explanation": "Correct answer: 'This project requires teamwork'"
+      },
+      {
+        "exerciseNumber": 4,
+        "question": "I feel confident about the test",
+        "questionType": "sentence",
+        "audio": "I feel confident about the test",
+        "options": ["I", "feel", "confident", "about", "the", "test", "You", "seem", "worried", "regarding", "homework"],
+        "correctAns": ["I", "feel", "confident", "about", "the", "test"],
+        "explanation": "Correct answer: 'I feel confident about the test'"
+      },
+      {
+        "exerciseNumber": 5,
+        "question": "We should respect different opinions",
+        "questionType": "sentence",
+        "audio": "We should respect different opinions",
+        "options": ["We", "should", "respect", "different", "opinions", "They", "must", "ignore", "similar", "ideas"],
+        "correctAns": ["We", "should", "respect", "different", "opinions"],
+        "explanation": "Correct answer: 'We should respect different opinions'"
+      }
+    ]
+  },
+  "voiceSentenceQuestions": {
+    "isCompleted": false,
+    "questions": [
+      {
+        "exerciseNumber": 1,
+        "question": "I want to improve my skills",
+        "questionType": "voiceSentence",
+        "audio": "I want to improve my skills",
+        "options": ["I", "want", "to", "improve", "my", "skills", "You", "need", "worsen", "your", "abilities"],
+        "correctAns": ["I", "want", "to", "improve", "my", "skills"],
+        "explanation": "Correct answer: 'I want to improve my skills'"
+      },
+      {
+        "exerciseNumber": 2,
+        "question": "My teacher explains things clearly",
+        "questionType": "voiceSentence",
+        "audio": "My teacher explains things clearly",
+        "options": ["My", "teacher", "explains", "things", "clearly", "Your", "student", "confuses", "stuff", "badly"],
+        "correctAns": ["My", "teacher", "explains", "things", "clearly"],
+        "explanation": "Correct answer: 'My teacher explains things clearly'"
+      },
+      {
+        "exerciseNumber": 3,
+        "question": "We are planning a school event",
+        "questionType": "voiceSentence",
+        "audio": "We are planning a school event",
+        "options": ["We", "are", "planning", "a", "school", "event", "They", "were", "canceling", "home", "party"],
+        "correctAns": ["We", "are", "planning", "a", "school", "event"],
+        "explanation": "Correct answer: 'We are planning a school event'"
+      },
+      {
+        "exerciseNumber": 4,
+        "question": "The science experiment was interesting",
+        "questionType": "voiceSentence",
+        "audio": "The science experiment was interesting",
+        "options": ["The", "science", "experiment", "was", "interesting", "A", "history", "lesson", "seemed", "boring"],
+        "correctAns": ["The", "science", "experiment", "was", "interesting"],
+        "explanation": "Correct answer: 'The science experiment was interesting'"
+      },
+      {
+        "exerciseNumber": 5,
+        "question": "I always try my best in everything",
+        "questionType": "voiceSentence",
+        "audio": "I always try my best in everything",
+        "options": ["I", "always", "try", "my", "best", "in", "everything", "You", "never", "give", "your", "worst", "nothing"],
+        "correctAns": ["I", "always", "try", "my", "best", "in", "everything"],
+        "explanation": "Correct answer: 'I always try my best in everything'"
+      }
+    ]
+  }
+}
+
+
+
+
+
+{
+  "level": 2,
+  "isCompleted": false,
+  "isLocked": false,
+  "wordQuestions": {
+    "isCompleted": false,
+    "questions": [
+      {
+        "exerciseNumber": 1,
+        "question": "What does 'ambitious' mean?",
+        "questionType": "word",
+        "options": ["lazy", "having big goals", "careless"],
+        "correctAns": "having big goals",
+        "explanation": "Correct answer: 'having big goals'"
+      },
+      {
+        "exerciseNumber": 2,
+        "question": "What does 'perspective' mean?",
+        "questionType": "word",
+        "options": ["point of view", "confusion", "anger"],
+        "correctAns": "point of view",
+        "explanation": "Correct answer: 'point of view'"
+      },
+      {
+        "exerciseNumber": 3,
+        "question": "What does 'resilient' mean?",
+        "questionType": "word",
+        "options": ["weak", "bouncing back from problems", "giving up easily"],
+        "correctAns": "bouncing back from problems",
+        "explanation": "Correct answer: 'bouncing back from problems'"
+      },
+      {
+        "exerciseNumber": 4,
+        "question": "What does 'collaborate' mean?",
+        "questionType": "word",
+        "options": ["work alone", "work together", "compete"],
+        "correctAns": "work together",
+        "explanation": "Correct answer: 'work together'"
+      },
+      {
+        "exerciseNumber": 5,
+        "question": "What does 'innovative' mean?",
+        "questionType": "word",
+        "options": ["old-fashioned", "creative and new", "boring"],
+        "correctAns": "creative and new",
+        "explanation": "Correct answer: 'creative and new'"
+      }
+    ]
+  },
+  "numberQuestions": {
+    "isCompleted": false,
+    "questions": [
+      {
+        "exerciseNumber": 1,
+        "question": "Select the correct number",
+        "questionType": "number",
+        "audio": "One hundred twenty-five",
+        "options": [
+          {
+            "label": "One hundred twenty-three",
+            "number": 123
+          },
+          {
+            "label": "One hundred twenty-four",
+            "number": 124
+          },
+          {
+            "label": "One hundred twenty-five",
+            "number": 125
+          },
+          {
+            "label": "One hundred twenty-six",
+            "number": 126
+          }
+        ],
+        "correctAns": 2,
+        "explanation": "Select the number one hundred twenty-five."
+      },
+      {
+        "exerciseNumber": 2,
+        "question": "Select the correct number",
+        "questionType": "number",
+        "audio": "Two hundred fifty",
+        "options": [
+          {
+            "label": "Two hundred forty-eight",
+            "number": 248
+          },
+          {
+            "label": "Two hundred forty-nine",
+            "number": 249
+          },
+          {
+            "label": "Two hundred fifty",
+            "number": 250
+          },
+          {
+            "label": "Two hundred fifty-one",
+            "number": 251
+          }
+        ],
+        "correctAns": 2,
+        "explanation": "Select the number two hundred fifty."
+      },
+      {
+        "exerciseNumber": 3,
+        "question": "Select the correct number",
+        "questionType": "number",
+        "audio": "One hundred eighty-seven",
+        "options": [
+          {
+            "label": "One hundred eighty-five",
+            "number": 185
+          },
+          {
+            "label": "One hundred eighty-six",
+            "number": 186
+          },
+          {
+            "label": "One hundred eighty-seven",
+            "number": 187
+          },
+          {
+            "label": "One hundred eighty-eight",
+            "number": 188
+          }
+        ],
+        "correctAns": 2,
+        "explanation": "Select the number one hundred eighty-seven."
+      },
+      {
+        "exerciseNumber": 4,
+        "question": "Select the correct number",
+        "questionType": "number",
+        "audio": "Three hundred twelve",
+        "options": [
+          {
+            "label": "Three hundred ten",
+            "number": 310
+          },
+          {
+            "label": "Three hundred eleven",
+            "number": 311
+          },
+          {
+            "label": "Three hundred twelve",
+            "number": 312
+          },
+          {
+            "label": "Three hundred thirteen",
+            "number": 313
+          }
+        ],
+        "correctAns": 2,
+        "explanation": "Select the number three hundred twelve."
+      },
+      {
+        "exerciseNumber": 5,
+        "question": "Select the correct number",
+        "questionType": "number",
+        "audio": "Four hundred ninety-nine",
+        "options": [
+          {
+            "label": "Four hundred ninety-seven",
+            "number": 497
+          },
+          {
+            "label": "Four hundred ninety-eight",
+            "number": 498
+          },
+          {
+            "label": "Four hundred ninety-nine",
+            "number": 499
+          },
+          {
+            "label": "Five hundred",
+            "number": 500
+          }
+        ],
+        "correctAns": 2,
+        "explanation": "Select the number four hundred ninety-nine."
+      }
+    ]
+  },
+  "imageQuestions": {
+    "isCompleted": false,
+    "questions": [
+      {
+        "exerciseNumber": 1,
+        "question": "Which shows 'researching'?",
+        "questionType": "image",
+        "options": [
+          {
+            "image": "/images/researching.png",
+            "option": "Researching"
+          },
+          {
+            "image": "/images/gossiping.png",
+            "option": "Gossiping"
+          },
+          {
+            "image": "/images/daydreaming.png",
+            "option": "Daydreaming"
+          },
+          {
+            "image": "/images/procrastinating.png",
+            "option": "Procrastinating"
+          }
+        ],
+        "correctAns": 0,
+        "explanation": "The correct answer is 'Researching'"
+      },
+      {
+        "exerciseNumber": 2,
+        "question": "Which is a 'dormitory'?",
+        "questionType": "image",
+        "options": [
+          {
+            "image": "/images/apartment.png",
+            "option": "Apartment"
+          },
+          {
+            "image": "/images/dormitory.png",
+            "option": "Dormitory"
+          },
+          {
+            "image": "/images/hotel.png",
+            "option": "Hotel"
+          },
+          {
+            "image": "/images/mansion.png",
+            "option": "Mansion"
+          }
+        ],
+        "correctAns": 1,
+        "explanation": "The correct answer is 'Dormitory'"
+      },
+      {
+        "exerciseNumber": 3,
+        "question": "Which shows 'volunteering'?",
+        "questionType": "image",
+        "options": [
+          {
+            "image": "/images/complaining.png",
+            "option": "Complaining"
+          },
+          {
+            "image": "/images/relaxing.png",
+            "option": "Relaxing"
+          },
+          {
+            "image": "/images/volunteering.png",
+            "option": "Volunteering"
+          },
+          {
+            "image": "/images/shopping.png",
+            "option": "Shopping"
+          }
+        ],
+        "correctAns": 2,
+        "explanation": "The correct answer is 'Volunteering'"
+      },
+      {
+        "exerciseNumber": 4,
+        "question": "Which is a 'scholarship'?",
+        "questionType": "image",
+        "options": [
+          {
+            "image": "/images/diploma.png",
+            "option": "Diploma"
+          },
+          {
+            "image": "/images/report_card.png",
+            "option": "Report Card"
+          },
+          {
+            "image": "/images/library_card.png",
+            "option": "Library Card"
+          },
+          {
+            "image": "/images/scholarship.png",
+            "option": "Scholarship"
+          }
+        ],
+        "correctAns": 3,
+        "explanation": "The correct answer is 'Scholarship'"
+      },
+      {
+        "exerciseNumber": 5,
+        "question": "Which shows 'debating'?",
+        "questionType": "image",
+        "options": [
+          {
+            "image": "/images/debating.png",
+            "option": "Debating"
+          },
+          {
+            "image": "/images/whispering.png",
+            "option": "Whispering"
+          },
+          {
+            "image": "/images/singing.png",
+            "option": "Singing"
+          },
+          {
+            "image": "/images/sleeping.png",
+            "option": "Sleeping"
+          }
+        ],
+        "correctAns": 0,
+        "explanation": "The correct answer is 'Debating'"
+      }
+    ]
+  },
+  "matchingQuestions": {
+    "isCompleted": false,
+    "questions": [
+      {
+        "exerciseNumber": 1,
+        "question": "Match challenges to strategies",
+        "questionType": "matching",
+        "questions": [
+          {
+            "audio": "Stress",
+            "correctAns": "Deep breathing"
+          },
+          {
+            "audio": "Procrastination",
+            "correctAns": "Make schedule"
+          },
+          {
+            "audio": "Conflict",
+            "correctAns": "Communicate"
+          },
+          {
+            "audio": "Failure",
+            "correctAns": "Learn lessons"
+          }
+        ],
+        "options": ["Communicate", "Deep breathing", "Learn lessons", "Make schedule"],
+        "explanation": "Match each challenge to its strategy."
+      },
+      {
+        "exerciseNumber": 2,
+        "question": "Match subjects to skills",
+        "questionType": "matching",
+        "questions": [
+          {
+            "audio": "Literature",
+            "correctAns": "Analysis"
+          },
+          {
+            "audio": "Mathematics",
+            "correctAns": "Problem solving"
+          },
+          {
+            "audio": "History",
+            "correctAns": "Research"
+          },
+          {
+            "audio": "Science",
+            "correctAns": "Observation"
+          }
+        ],
+        "options": ["Problem solving", "Analysis", "Observation", "Research"],
+        "explanation": "Match each subject to its key skill."
+      },
+      {
+        "exerciseNumber": 3,
+        "question": "Match goals to actions",
+        "questionType": "matching",
+        "questions": [
+          {
+            "audio": "Better grades",
+            "correctAns": "Study more"
+          },
+          {
+            "audio": "New friends",
+            "correctAns": "Join clubs"
+          },
+          {
+            "audio": "Leadership",
+            "correctAns": "Take initiative"
+          },
+          {
+            "audio": "Fitness",
+            "correctAns": "Exercise daily"
+          }
+        ],
+        "options": ["Join clubs", "Study more", "Exercise daily", "Take initiative"],
+        "explanation": "Match each goal to its action."
+      },
+      {
+        "exerciseNumber": 4,
+        "question": "Match values to behaviors",
+        "questionType": "matching",
+        "questions": [
+          {
+            "audio": "Honesty",
+            "correctAns": "Tell truth"
+          },
+          {
+            "audio": "Respect",
+            "correctAns": "Listen carefully"
+          },
+          {
+            "audio": "Kindness",
+            "correctAns": "Help others"
+          },
+          {
+            "audio": "Responsibility",
+            "correctAns": "Keep promises"
+          }
+        ],
+        "options": ["Listen carefully", "Tell truth", "Keep promises", "Help others"],
+        "explanation": "Match each value to its behavior."
+      },
+      {
+        "exerciseNumber": 5,
+        "question": "Match technologies to purposes",
+        "questionType": "matching",
+        "questions": [
+          {
+            "audio": "Calculator",
+            "correctAns": "Math problems"
+          },
+          {
+            "audio": "Internet",
+            "correctAns": "Research info"
+          },
+          {
+            "audio": "Presentation software",
+            "correctAns": "Share ideas"
+          },
+          {
+            "audio": "Video call",
+            "correctAns": "Connect remotely"
+          }
+        ],
+        "options": ["Research info", "Math problems", "Connect remotely", "Share ideas"],
+        "explanation": "Match each technology to its purpose."
+      }
+    ]
+  },
+  "pronunciationQuestions": {
+    "isCompleted": false,
+    "questions": [
+      {
+        "exerciseNumber": 1,
+        "question": "Say 'Opportunity'",
+        "questionType": "pronunciation",
+        "audio": "Opportunity",
+        "image": "/images/opportunity.png",
+        "instruction": "Tap the mic and say 'Opportunity'",
+        "correctAns": "Opportunity",
+        "explanation": "Say 'Opportunity' clearly."
+      },
+      {
+        "exerciseNumber": 2,
+        "question": "Say 'Determination'",
+        "questionType": "pronunciation",
+        "audio": "Determination",
+        "image": "/images/determination.png",
+        "instruction": "Tap the mic and say 'Determination'",
+        "correctAns": "Determination",
+        "explanation": "Say 'Determination' clearly."
+      },
+      {
+        "exerciseNumber": 3,
+        "question": "Say 'Communication'",
+        "questionType": "pronunciation",
+        "audio": "Communication",
+        "image": "/images/communication.png",
+        "instruction": "Tap the mic and say 'Communication'",
+        "correctAns": "Communication",
+        "explanation": "Say 'Communication' clearly."
+      },
+      {
+        "exerciseNumber": 4,
+        "question": "Say 'Organization'",
+        "questionType": "pronunciation",
+        "audio": "Organization",
+        "image": "/images/organization.png",
+        "instruction": "Tap the mic and say 'Organization'",
+        "correctAns": "Organization",
+        "explanation": "Say 'Organization' clearly."
+      },
+      {
+        "exerciseNumber": 5,
+        "question": "Say 'Participation'",
+        "questionType": "pronunciation",
+        "audio": "Participation",
+        "image": "/images/participation.png",
+        "instruction": "Tap the mic and say 'Participation'",
+        "correctAns": "Participation",
+        "explanation": "Say 'Participation' clearly."
+      }
+    ]
+  },
+  "sentenceQuestions": {
+    "isCompleted": false,
+    "questions": [
+      {
+        "exerciseNumber": 1,
+        "question": "I study hard for my tests",
+        "questionType": "sentence",
+        "audio": "I study hard for my tests",
+        "options": ["I", "study", "hard", "for", "my", "tests", "You", "play", "easy", "during", "games"],
+        "correctAns": ["I", "study", "hard", "for", "my", "tests"],
+        "explanation": "Correct answer: 'I study hard for my tests'"
+      },
+      {
+        "exerciseNumber": 2,
+        "question": "My friends help me with homework",
+        "questionType": "sentence",
+        "audio": "My friends help me with homework",
+        "options": ["My", "friends", "help", "me", "with", "homework", "Your", "enemies", "ignore", "them", "without", "projects"],
+        "correctAns": ["My", "friends", "help", "me", "with", "homework"],
+        "explanation": "Correct answer: 'My friends help me with homework'"
+      },
+      {
+        "exerciseNumber": 3,
+        "question": "We use computers in class",
+        "questionType": "sentence",
+        "audio": "We use computers in class",
+        "options": ["We", "use", "computers", "in", "class", "They", "avoid", "books", "outside", "home"],
+        "correctAns": ["We", "use", "computers", "in", "class"],
+        "explanation": "Correct answer: 'We use computers in class'"
+      },
+      {
+        "exerciseNumber": 4,
+        "question": "Everyone has different ideas about things",
+        "questionType": "sentence",
+        "audio": "Everyone has different ideas about things",
+        "options": ["Everyone", "has", "different", "ideas", "about", "things", "Nobody", "lacks", "similar", "thoughts", "regarding", "nothing"],
+        "correctAns": ["Everyone", "has", "different", "ideas", "about", "things"],
+        "explanation": "Correct answer: 'Everyone has different ideas about things'"
+      },
+      {
+        "exerciseNumber": 5,
+        "question": "I want to do well in school",
+        "questionType": "sentence",
+        "audio": "I want to do well in school",
+        "options": ["I", "want", "to", "do", "well", "in", "school", "You", "hope", "fail", "badly", "at", "work"],
+        "correctAns": ["I", "want", "to", "do", "well", "in", "school"],
+        "explanation": "Correct answer: 'I want to do well in school'"
+      }
+    ]
+  },
+  "voiceSentenceQuestions": {
+    "isCompleted": false,
+    "questions": [
+      {
+        "exerciseNumber": 1,
+        "question": "I really enjoy reading new books",
+        "questionType": "voiceSentence",
+        "audio": "I really enjoy reading new books",
+        "options": ["I", "really", "enjoy", "reading", "new", "books", "You", "barely", "hate", "watching", "old", "movies"],
+        "correctAns": ["I", "really", "enjoy", "reading", "new", "books"],
+        "explanation": "Correct answer: 'I really enjoy reading new books'"
+      },
+      {
+        "exerciseNumber": 2,
+        "question": "Our teacher explains lessons very clearly",
+        "questionType": "voiceSentence",
+        "audio": "Our teacher explains lessons very clearly",
+        "options": ["Our", "teacher", "explains", "lessons", "very", "clearly", "Their", "student", "confuses", "games", "quite", "badly"],
+        "correctAns": ["Our", "teacher", "explains", "lessons", "very", "clearly"],
+        "explanation": "Correct answer: 'Our teacher explains lessons very clearly'"
+      },
+      {
+        "exerciseNumber": 3,
+        "question": "We work together on group projects",
+        "questionType": "voiceSentence",
+        "audio": "We work together on group projects",
+        "options": ["We", "work", "together", "on", "group", "projects", "They", "play", "alone", "during", "individual", "games"],
+        "correctAns": ["We", "work", "together", "on", "group", "projects"],
+        "explanation": "Correct answer: 'We work together on group projects'"
+      },
+      {
+        "exerciseNumber": 4,
+        "question": "I like finding creative solutions to problems",
+        "questionType": "voiceSentence",
+        "audio": "I like finding creative solutions to problems",
+        "options": ["I", "like", "finding", "creative", "solutions", "to", "problems", "You", "hate", "losing", "boring", "answers", "from", "questions"],
+        "correctAns": ["I", "like", "finding", "creative", "solutions", "to", "problems"],
+        "explanation": "Correct answer: 'I like finding creative solutions to problems'"
+      },
+      {
+        "exerciseNumber": 5,
+        "question": "My friends and I help each other study",
+        "questionType": "voiceSentence",
+        "audio": "My friends and I help each other study",
+        "options": ["My", "friends", "and", "I", "help", "each", "other", "study", "Your", "enemies", "or", "you", "ignore", "one", "another", "play"],
+        "correctAns": ["My", "friends", "and", "I", "help", "each", "other", "study"],
+        "explanation": "Correct answer: 'My friends and I help each other study'"
+      }
+    ]
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "level": 3,
+  "isCompleted": false,
+  "isLocked": false,
+  "wordQuestions": {
+    "isCompleted": false,
+    "questions": [
+      {
+        "exerciseNumber": 1,
+        "question": "What does 'enthusiastic' mean?",
+        "questionType": "word",
+        "options": ["bored", "very excited", "tired"],
+        "correctAns": "very excited",
+        "explanation": "Correct answer: 'very excited'"
+      },
+      {
+        "exerciseNumber": 2,
+        "question": "What does 'interpret' mean?",
+        "questionType": "word",
+        "options": ["ignore", "explain meaning", "copy"],
+        "correctAns": "explain meaning",
+        "explanation": "Correct answer: 'explain meaning'"
+      },
+      {
+        "exerciseNumber": 3,
+        "question": "What does 'motivate' mean?",
+        "questionType": "word",
+        "options": ["discourage", "encourage to act", "confuse"],
+        "correctAns": "encourage to act",
+        "explanation": "Correct answer: 'encourage to act'"
+      },
+      {
+        "exerciseNumber": 4,
+        "question": "What does 'analyze' mean?",
+        "questionType": "word",
+        "options": ["examine carefully", "guess quickly", "avoid completely"],
+        "correctAns": "examine carefully",
+        "explanation": "Correct answer: 'examine carefully'"
+      },
+      {
+        "exerciseNumber": 5,
+        "question": "What does 'influence' mean?",
+        "questionType": "word",
+        "options": ["affect or change", "ignore", "copy exactly"],
+        "correctAns": "affect or change",
+        "explanation": "Correct answer: 'affect or change'"
+      }
+    ]
+  },
+  "numberQuestions": {
+    "isCompleted": false,
+    "questions": [
+      {
+        "exerciseNumber": 1,
+        "question": "Select the correct number",
+        "questionType": "number",
+        "audio": "Six hundred forty-seven",
+        "options": [
+          {
+            "label": "Six hundred forty-five",
+            "number": 645
+          },
+          {
+            "label": "Six hundred forty-six",
+            "number": 646
+          },
+          {
+            "label": "Six hundred forty-seven",
+            "number": 647
+          },
+          {
+            "label": "Six hundred forty-eight",
+            "number": 648
+          }
+        ],
+        "correctAns": 2,
+        "explanation": "Select the number six hundred forty-seven."
+      },
+      {
+        "exerciseNumber": 2,
+        "question": "Select the correct number",
+        "questionType": "number",
+        "audio": "Eight hundred twelve",
+        "options": [
+          {
+            "label": "Eight hundred ten",
+            "number": 810
+          },
+          {
+            "label": "Eight hundred eleven",
+            "number": 811
+          },
+          {
+            "label": "Eight hundred twelve",
+            "number": 812
+          },
+          {
+            "label": "Eight hundred thirteen",
+            "number": 813
+          }
+        ],
+        "correctAns": 2,
+        "explanation": "Select the number eight hundred twelve."
+      },
+      {
+        "exerciseNumber": 3,
+        "question": "Select the correct number",
+        "questionType": "number",
+        "audio": "Seven hundred ninety-three",
+        "options": [
+          {
+            "label": "Seven hundred ninety-one",
+            "number": 791
+          },
+          {
+            "label": "Seven hundred ninety-two",
+            "number": 792
+          },
+          {
+            "label": "Seven hundred ninety-three",
+            "number": 793
+          },
+          {
+            "label": "Seven hundred ninety-four",
+            "number": 794
+          }
+        ],
+        "correctAns": 2,
+        "explanation": "Select the number seven hundred ninety-three."
+      },
+      {
+        "exerciseNumber": 4,
+        "question": "Select the correct number",
+        "questionType": "number",
+        "audio": "Nine hundred fifty-six",
+        "options": [
+          {
+            "label": "Nine hundred fifty-four",
+            "number": 954
+          },
+          {
+            "label": "Nine hundred fifty-five",
+            "number": 955
+          },
+          {
+            "label": "Nine hundred fifty-six",
+            "number": 956
+          },
+          {
+            "label": "Nine hundred fifty-seven",
+            "number": 957
+          }
+        ],
+        "correctAns": 2,
+        "explanation": "Select the number nine hundred fifty-six."
+      },
+      {
+        "exerciseNumber": 5,
+        "question": "Select the correct number",
+        "questionType": "number",
+        "audio": "One thousand",
+        "options": [
+          {
+            "label": "Nine hundred ninety-eight",
+            "number": 998
+          },
+          {
+            "label": "Nine hundred ninety-nine",
+            "number": 999
+          },
+          {
+            "label": "One thousand",
+            "number": 1000
+          },
+          {
+            "label": "One thousand one",
+            "number": 1001
+          }
+        ],
+        "correctAns": 2,
+        "explanation": "Select the number one thousand."
+      }
+    ]
+  },
+  "imageQuestions": {
+    "isCompleted": false,
+    "questions": [
+      {
+        "exerciseNumber": 1,
+        "question": "Which shows 'experimenting'?",
+        "questionType": "image",
+        "options": [
+          {
+            "image": "/images/experimenting.png",
+            "option": "Experimenting"
+          },
+          {
+            "image": "/images/copying.png",
+            "option": "Copying"
+          },
+          {
+            "image": "/images/guessing.png",
+            "option": "Guessing"
+          },
+          {
+            "image": "/images/memorizing.png",
+            "option": "Memorizing"
+          }
+        ],
+        "correctAns": 0,
+        "explanation": "The correct answer is 'Experimenting'"
+      },
+      {
+        "exerciseNumber": 2,
+        "question": "Which is an 'observatory'?",
+        "questionType": "image",
+        "options": [
+          {
+            "image": "/images/museum.png",
+            "option": "Museum"
+          },
+          {
+            "image": "/images/observatory.png",
+            "option": "Observatory"
+          },
+          {
+            "image": "/images/theater.png",
+            "option": "Theater"
+          },
+          {
+            "image": "/images/stadium.png",
+            "option": "Stadium"
+          }
+        ],
+        "correctAns": 1,
+        "explanation": "The correct answer is 'Observatory'"
+      },
+      {
+        "exerciseNumber": 3,
+        "question": "Which shows 'collaborating'?",
+        "questionType": "image",
+        "options": [
+          {
+            "image": "/images/competing.png",
+            "option": "Competing"
+          },
+          {
+            "image": "/images/avoiding.png",
+            "option": "Avoiding"
+          },
+          {
+            "image": "/images/collaborating.png",
+            "option": "Collaborating"
+          },
+          {
+            "image": "/images/hiding.png",
+            "option": "Hiding"
+          }
+        ],
+        "correctAns": 2,
+        "explanation": "The correct answer is 'Collaborating'"
+      },
+      {
+        "exerciseNumber": 4,
+        "question": "Which is a 'portfolio'?",
+        "questionType": "image",
+        "options": [
+          {
+            "image": "/images/notebook.png",
+            "option": "Notebook"
+          },
+          {
+            "image": "/images/textbook.png",
+            "option": "Textbook"
+          },
+          {
+            "image": "/images/magazine.png",
+            "option": "Magazine"
+          },
+          {
+            "image": "/images/portfolio.png",
+            "option": "Portfolio"
+          }
+        ],
+        "correctAns": 3,
+        "explanation": "The correct answer is 'Portfolio'"
+      },
+      {
+        "exerciseNumber": 5,
+        "question": "Which shows 'mentoring'?",
+        "questionType": "image",
+        "options": [
+          {
+            "image": "/images/mentoring.png",
+            "option": "Mentoring"
+          },
+          {
+            "image": "/images/criticizing.png",
+            "option": "Criticizing"
+          },
+          {
+            "image": "/images/ignoring.png",
+            "option": "Ignoring"
+          },
+          {
+            "image": "/images/competing.png",
+            "option": "Competing"
+          }
+        ],
+        "correctAns": 0,
+        "explanation": "The correct answer is 'Mentoring'"
+      }
+    ]
+  },
+  "matchingQuestions": {
+    "isCompleted": false,
+    "questions": [
+      {
+        "exerciseNumber": 1,
+        "question": "Match learning styles to methods",
+        "questionType": "matching",
+        "questions": [
+          {
+            "audio": "Visual learner",
+            "correctAns": "Charts and diagrams"
+          },
+          {
+            "audio": "Audio learner",
+            "correctAns": "Listening to music"
+          },
+          {
+            "audio": "Hands-on learner",
+            "correctAns": "Building models"
+          },
+          {
+            "audio": "Reading learner",
+            "correctAns": "Taking notes"
+          }
+        ],
+        "options": ["Building models", "Charts and diagrams", "Taking notes", "Listening to music"],
+        "explanation": "Match each learning style to its method."
+      },
+      {
+        "exerciseNumber": 2,
+        "question": "Match study skills to outcomes",
+        "questionType": "matching",
+        "questions": [
+          {
+            "audio": "Planning ahead",
+            "correctAns": "Less stress"
+          },
+          {
+            "audio": "Taking notes",
+            "correctAns": "Better memory"
+          },
+          {
+            "audio": "Asking questions",
+            "correctAns": "Deeper understanding"
+          },
+          {
+            "audio": "Practice tests",
+            "correctAns": "Higher scores"
+          }
+        ],
+        "options": ["Better memory", "Less stress", "Higher scores", "Deeper understanding"],
+        "explanation": "Match each study skill to its outcome."
+      },
+      {
+        "exerciseNumber": 3,
+        "question": "Match interests to activities",
+        "questionType": "matching",
+        "questions": [
+          {
+            "audio": "Love animals",
+            "correctAns": "Volunteer at shelter"
+          },
+          {
+            "audio": "Enjoy writing",
+            "correctAns": "Join school newspaper"
+          },
+          {
+            "audio": "Like helping people",
+            "correctAns": "Peer tutoring"
+          },
+          {
+            "audio": "Love performing",
+            "correctAns": "School drama club"
+          }
+        ],
+        "options": ["Join school newspaper", "Volunteer at shelter", "School drama club", "Peer tutoring"],
+        "explanation": "Match each interest to its activity."
+      },
+      {
+        "exerciseNumber": 4,
+        "question": "Match time periods to activities",
+        "questionType": "matching",
+        "questions": [
+          {
+            "audio": "Morning",
+            "correctAns": "Review homework"
+          },
+          {
+            "audio": "After school",
+            "correctAns": "Join clubs"
+          },
+          {
+            "audio": "Evening",
+            "correctAns": "Complete assignments"
+          },
+          {
+            "audio": "Weekend",
+            "correctAns": "Study for tests"
+          }
+        ],
+        "options": ["Join clubs", "Review homework", "Study for tests", "Complete assignments"],
+        "explanation": "Match each time period to its activity."
+      },
+      {
+        "exerciseNumber": 5,
+        "question": "Match personality traits to strengths",
+        "questionType": "matching",
+        "questions": [
+          {
+            "audio": "Creative",
+            "correctAns": "Art projects"
+          },
+          {
+            "audio": "Logical",
+            "correctAns": "Math problems"
+          },
+          {
+            "audio": "Social",
+            "correctAns": "Group discussions"
+          },
+          {
+            "audio": "Detail-oriented",
+            "correctAns": "Research tasks"
+          }
+        ],
+        "options": ["Math problems", "Art projects", "Research tasks", "Group discussions"],
+        "explanation": "Match each personality trait to its strength."
+      }
+    ]
+  },
+  "pronunciationQuestions": {
+    "isCompleted": false,
+    "questions": [
+      {
+        "exerciseNumber": 1,
+        "question": "Say 'Investigation'",
+        "questionType": "pronunciation",
+        "audio": "Investigation",
+        "image": "/images/investigation.png",
+        "instruction": "Tap the mic and say 'Investigation'",
+        "correctAns": "Investigation",
+        "explanation": "Say 'Investigation' clearly."
+      },
+      {
+        "exerciseNumber": 2,
+        "question": "Say 'Collaboration'",
+        "questionType": "pronunciation",
+        "audio": "Collaboration",
+        "image": "/images/collaboration.png",
+        "instruction": "Tap the mic and say 'Collaboration'",
+        "correctAns": "Collaboration",
+        "explanation": "Say 'Collaboration' clearly."
+      },
+      {
+        "exerciseNumber": 3,
+        "question": "Say 'Presentation'",
+        "questionType": "pronunciation",
+        "audio": "Presentation",
+        "image": "/images/presentation.png",
+        "instruction": "Tap the mic and say 'Presentation'",
+        "correctAns": "Presentation",
+        "explanation": "Say 'Presentation' clearly."
+      },
+      {
+        "exerciseNumber": 4,
+        "question": "Say 'Technology'",
+        "questionType": "pronunciation",
+        "audio": "Technology",
+        "image": "/images/technology.png",
+        "instruction": "Tap the mic and say 'Technology'",
+        "correctAns": "Technology",
+        "explanation": "Say 'Technology' clearly."
+      },
+      {
+        "exerciseNumber": 5,
+        "question": "Say 'Environment'",
+        "questionType": "pronunciation",
+        "audio": "Environment",
+        "image": "/images/environment.png",
+        "instruction": "Tap the mic and say 'Environment'",
+        "correctAns": "Environment",
+        "explanation": "Say 'Environment' clearly."
+      }
+    ]
+  },
+  "sentenceQuestions": {
+    "isCompleted": false,
+    "questions": [
+      {
+        "exerciseNumber": 1,
+        "question": "I always finish my assignments on time",
+        "questionType": "sentence",
+        "audio": "I always finish my assignments on time",
+        "options": ["I", "always", "finish", "my", "assignments", "on", "time", "You", "never", "start", "your", "homework", "too", "late"],
+        "correctAns": ["I", "always", "finish", "my", "assignments", "on", "time"],
+        "explanation": "Correct answer: 'I always finish my assignments on time'"
+      },
+      {
+        "exerciseNumber": 2,
+        "question": "Our class works well together as a team",
+        "questionType": "sentence",
+        "audio": "Our class works well together as a team",
+        "options": ["Our", "class", "works", "well", "together", "as", "a", "team", "Their", "group", "fights", "badly", "apart", "like", "individuals"],
+        "correctAns": ["Our", "class", "works", "well", "together", "as", "a", "team"],
+        "explanation": "Correct answer: 'Our class works well together as a team'"
+      },
+      {
+        "exerciseNumber": 3,
+        "question": "I enjoy learning about different cultures",
+        "questionType": "sentence",
+        "audio": "I enjoy learning about different cultures",
+        "options": ["I", "enjoy", "learning", "about", "different", "cultures", "You", "hate", "forgetting", "regarding", "similar", "traditions"],
+        "correctAns": ["I", "enjoy", "learning", "about", "different", "cultures"],
+        "explanation": "Correct answer: 'I enjoy learning about different cultures'"
+      },
+      {
+        "exerciseNumber": 4,
+        "question": "Technology helps us connect with friends",
+        "questionType": "sentence",
+        "audio": "Technology helps us connect with friends",
+        "options": ["Technology", "helps", "us", "connect", "with", "friends", "Books", "prevent", "them", "separate", "from", "enemies"],
+        "correctAns": ["Technology", "helps", "us", "connect", "with", "friends"],
+        "explanation": "Correct answer: 'Technology helps us connect with friends'"
+      },
+      {
+        "exerciseNumber": 5,
+        "question": "I try to be helpful to my classmates",
+        "questionType": "sentence",
+        "audio": "I try to be helpful to my classmates",
+        "options": ["I", "try", "to", "be", "helpful", "to", "my", "classmates", "You", "refuse", "seem", "mean", "toward", "your", "teachers"],
+        "correctAns": ["I", "try", "to", "be", "helpful", "to", "my", "classmates"],
+        "explanation": "Correct answer: 'I try to be helpful to my classmates'"
+      }
+    ]
+  },
+  "voiceSentenceQuestions": {
+    "isCompleted": false,
+    "questions": [
+      {
+        "exerciseNumber": 1,
+        "question": "I love participating in science experiments",
+        "questionType": "voiceSentence",
+        "audio": "I love participating in science experiments",
+        "options": ["I", "love", "participating", "in", "science", "experiments", "You", "hate", "avoiding", "during", "history", "lectures"],
+        "correctAns": ["I", "love", "participating", "in", "science", "experiments"],
+        "explanation": "Correct answer: 'I love participating in science experiments'"
+      },
+      {
+        "exerciseNumber": 2,
+        "question": "My favorite subject challenges me to think",
+        "questionType": "voiceSentence",
+        "audio": "My favorite subject challenges me to think",
+        "options": ["My", "favorite", "subject", "challenges", "me", "to", "think", "Your", "worst", "topic", "allows", "them", "sleep"],
+        "correctAns": ["My", "favorite", "subject", "challenges", "me", "to", "think"],
+        "explanation": "Correct answer: 'My favorite subject challenges me to think'"
+      },
+      {
+        "exerciseNumber": 3,
+        "question": "We often discuss important topics in class",
+        "questionType": "voiceSentence",
+        "audio": "We often discuss important topics in class",
+        "options": ["We", "often", "discuss", "important", "topics", "in", "class", "They", "rarely", "ignore", "silly", "subjects", "at", "home"],
+        "correctAns": ["We", "often", "discuss", "important", "topics", "in", "class"],
+        "explanation": "Correct answer: 'We often discuss important topics in class'"
+      },
+      {
+        "exerciseNumber": 4,
+        "question": "I enjoy creating presentations for my projects",
+        "questionType": "voiceSentence",
+        "audio": "I enjoy creating presentations for my projects",
+        "options": ["I", "enjoy", "creating", "presentations", "for", "my", "projects", "You", "dislike", "destroying", "speeches", "against", "your", "assignments"],
+        "correctAns": ["I", "enjoy", "creating", "presentations", "for", "my", "projects"],
+        "explanation": "Correct answer: 'I enjoy creating presentations for my projects'"
+      },
+      {
+        "exerciseNumber": 5,
+        "question": "Our school encourages students to explore new ideas",
+        "questionType": "voiceSentence",
+        "audio": "Our school encourages students to explore new ideas",
+        "options": ["Our", "school", "encourages", "students", "to", "explore", "new", "ideas", "Their", "workplace", "discourages", "workers", "avoid", "old", "thoughts"],
+        "correctAns": ["Our", "school", "encourages", "students", "to", "explore", "new", "ideas"],
+        "explanation": "Correct answer: 'Our school encourages students to explore new ideas'"
+      }
+    ]
+  }
+}
