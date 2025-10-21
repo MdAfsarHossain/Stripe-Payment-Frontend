@@ -28,7 +28,7 @@ export default function PaymentPage() {
     cvv: "",
     cardholderName: "",
     email: "",
-    amount: "99.99",
+    amount: "49",
   });
   const [errors, setErrors] = useState<Record<string, string>>({});
 
@@ -97,10 +97,13 @@ export default function PaymentPage() {
 
     try {
       const result = await axios.post(
-        "http://localhost:5008/api/v1/payments/create-checkout-session",
+        // "http://localhost:5007/api/v1/payments/create-checkout-session",
+        // "https://38100f0bfe48.ngrok-free.app/api/v1/payments/create-checkout-session",
+        "https://a633a90686af.ngrok-free.app/api/v1/payments/create-checkout-session",
         {
           successUrl: "http://localhost:3000/payment/success",
           cancelUrl: "http://localhost:3000/payment/error",
+          couponCode: "WELCOME10", // 10% discount applied
           // ADD THESE REQUIRED FIELDS:
           items: [
             {
@@ -116,6 +119,9 @@ export default function PaymentPage() {
           ],
         }
       );
+
+      console.log(result);
+      
 
       if (result.data.data.session_id) {
         // Should return session ID, not URL
