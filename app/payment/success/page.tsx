@@ -8,7 +8,8 @@ export default function PaymentSuccessPage() {
   // In a real app, you'd get this data from URL params or API
   const orderDetails = {
     orderId: "ORD-2024-001",
-    amount: "99.99",
+    // amount: "99.99",
+    amount: "49",
     email: "customer@example.com",
     date: new Date().toLocaleDateString(),
     paymentMethod: "**** **** **** 1234",
