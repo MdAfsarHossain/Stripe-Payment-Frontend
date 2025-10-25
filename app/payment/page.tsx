@@ -31,6 +31,7 @@ export default function PaymentPage() {
   });
   const [errors, setErrors] = useState<Record<string, string>>({});
 
+  // Validate Form 
   const validateForm = () => {
     const newErrors: Record<string, string> = {};
 
